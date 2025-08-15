@@ -28,6 +28,6 @@
 ---
 
 ## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](hari-pranesh8610)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=react&logoColor=white)](YOUR_PORTFOLIO_URL)
 
