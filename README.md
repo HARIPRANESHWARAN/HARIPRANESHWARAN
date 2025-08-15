@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Hari 👋
 
-<!--
-**HARIPRANESHWARAN/HARIPRANESHWARAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | 🧠 AI & OCR Enthusiast | 🛡️ Cybersecurity Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+**Languages:** Python, JavaScript, SQL  
+**Frontend:** HTML, CSS, React.js  
+**Backend:** Flask  
+**Tools & Libraries:** BeautifulSoup, Selenium, Requests, Pandas  
+**Other Interests:** Cybersecurity, AI Voice Models, OCR
+
+---
+
+## 📌 Projects
+- **Mark Vision** – Automated marksheet extraction & saving (Excel + Google Sheets)  
+- **Smart AI Tutor** – AI-powered personalized learning platform with parent updates  
+- **Epic Games UI Clone** – Interactive UI design using Figma
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HARIPRANESHWARAN&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HARIPRANESHWARAN&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=react&logoColor=white)](YOUR_PORTFOLIO_URL)
+
